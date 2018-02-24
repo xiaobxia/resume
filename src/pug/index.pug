@@ -1,0 +1,14 @@
+doctype html
+html
+  head
+    title 简历
+    meta(charset='utf-8')
+    meta(name='description' content='xiaobxia个人简历')
+    meta(name='keywords' content='xiaobxia,小b侠,个人简历')
+    meta(name='viewport' content='width=device-width')
+    link(rel='stylesheet' href='/_css/main.css')
+    include var/baidu
+  body
+    div.paper-body
+      div.markdown-body
+        include:markdown-it ../../README.md

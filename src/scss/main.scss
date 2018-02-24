@@ -1,0 +1,18 @@
+@import "component/markdown";
+
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(80, 160, 170);
+}
+
+.paper-body {
+  position: relative;
+  margin: 50px auto;
+  padding: 25px;
+  width: 620px;
+  min-height: 877px;
+  background-color: #fff;
+  box-shadow: -10px 10px 80px rgba(110, 144, 148, .3);
+}
