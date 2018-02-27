@@ -16,7 +16,14 @@
 
 ---
 
-## 个人能力
+## 技能清单
+- Web开发：HTML5 / Javascript / Css / Node
+- 前端框架：Vue / React / Element / Ant Design
+- 后端框架：Koa / Express
+- 前端工具：SaSS / Less / Pug / Gulp / Webpack
+- 数据库：Mysql / Mongodb / Redis
+- 版本管理和自动化部署工具：Git / Jinkens
+- 操作系统：Windows / Linux
 
 ---
 
@@ -63,14 +70,3 @@
 ### 公募基金h5（公司）
 技术栈：Gulp + Mui。  
 在此项目中我负责项目的编写、发布。  
-
----
-
-## 技能清单
-- Web开发：HTML5 / Javascript / Css / Node
-- 前端框架：Vue / React / Element / Ant Design
-- 后端框架：Koa / Express
-- 前端工具：SaSS / Less / Pug / Gulp / Webpack
-- 数据库：Mysql / Mongodb / Redis
-- 版本管理和自动化部署工具：Git / Jinkens
-- 操作系统：Windows / Linux
