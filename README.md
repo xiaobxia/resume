@@ -8,12 +8,11 @@
 ---
 
 ## 个人信息
-
- - 陈灵捷 / 男 / 1995
- - 本科 / 绍兴文理学院自动化专业
- - 工作年限：1年
- - Github: https://github.com/xiaobxia
- - 期望职位：Web前端程序员
+- 陈灵捷 / 男 / 1995
+- 本科 / 绍兴文理学院自动化专业
+- 工作年限：1年
+- Github: https://github.com/xiaobxia
+- 期望职位：Web前端程序员
 
 ---
 
