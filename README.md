@@ -46,12 +46,17 @@
 通过这两个项目历练，我熟练掌握了Vue的使用方法，
 以及Vue脚手架的编写方式，再次之后我也模仿着为React项目配置了类似的架手架。
 
+![crm](http://p4n8qaybt.bkt.clouddn.com/crm.png)
+
 ### 个人管理后台（个人）
 技术栈：React + React-Router + Redux + Ant Design。    
 在此项目中我负责项目的搭建、编写、发布。
 编写这个项目是为了研究React框架，同时也编写工具以供自己使用。
 编写的过程中研究了React下代码分割，路由鉴权，状态管理等等。
 同时也编写了一套适用React的脚手架，而没使用Ant Design官方推荐的Dva架手架。
+
+![fundList](http://p4n8qaybt.bkt.clouddn.com/fundList.png)
+![fundDetail](http://p4n8qaybt.bkt.clouddn.com/fundDetail.png)
 
 ### express后端服务（个人）
 技术栈：Node + Express + Mysql。    
