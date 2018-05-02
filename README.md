@@ -34,7 +34,7 @@
 ### 金品生活房产h5+公募基金h5（公司）
 技术栈：Node + Koa + Gulp + Pug + Mui。    
 在此项目中我负责项目的搭建、编写、发布。
-因为CTO要求由后端进行服务端渲染，前端提供模板，
+因为项目要求由后端进行服务端渲染，前端提供模板，
 所以在选型时我选择搭建Node服务器渲染pug模板，
 同时引入Gulp工作流，提供编译和压缩代码、合并文件、雪碧图、文件哈希、引入cdn等功能。
 
@@ -51,7 +51,7 @@
 在此项目中我负责项目的搭建、编写、发布。
 编写这个项目是为了研究React框架，同时也编写工具以供自己使用。
 编写的过程中研究了React下代码分割，路由鉴权，状态管理等等。
-同时也编写了一套适用React的脚手。
+同时也编写了一套适用React的脚手架。
 
 ![fundList](http://p4n8qaybt.bkt.clouddn.com/fundList.png)
 ![fundDetail](http://p4n8qaybt.bkt.clouddn.com/fundDetail.png)
